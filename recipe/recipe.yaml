@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.2"
+  version: "0.6.0"
 
 package:
   name: openfeature-provider-flagd
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/o/openfeature-provider-flagd/openfeature_provider_flagd-${{ version }}.tar.gz
-  sha256: 6c10288afcca00a5889df475ddc03c09be53ba6d8f8060f1ba23e38fbc557054
+  sha256: 1a29f9a6b1946fe006989d3e5429a6fde3d3c76aa3afd46f9628c6eeff13bfce
 
 build:
   number: 0
